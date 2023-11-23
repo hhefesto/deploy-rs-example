@@ -31,7 +31,7 @@
 
       deploy.nodes = {
         my-node = {
-          hostname = "<your address goes here>";
+          hostname = "65.109.162.220";
           fastConnection = false;
           profiles = {
             my-profile = {
