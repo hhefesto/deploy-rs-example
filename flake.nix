@@ -2,7 +2,7 @@
   description = "My server flake";
 
   inputs = {
-    nixpkgs.url = github:NixOS/nixpkgs/nixos-21.11;
+    nixpkgs.url = github:NixOS/nixpkgs/nixos-23.05;
     flake-utils-plus.url = github:gytis-ivaskevicius/flake-utils-plus;
     deploy-rs = {
       url = github:serokell/deploy-rs;
